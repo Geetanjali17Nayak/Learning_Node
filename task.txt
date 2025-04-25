@@ -1,0 +1,16 @@
+REST API -> JSON
+
+hybrid server-> browser-> /users (HTML Documents)
+
+GET /api/users -> list all user
+
+GET /api/users/1 ->list user with id 1
+
+dynamic path -> /api/users/:id (id might be anything)
+
+PUT /api/users -> create new user
+
+PATCH /api/users/id -> edit user with  given id 
+
+DELETE /api/users/id -> Delete user with given id
+

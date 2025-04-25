@@ -1,0 +1,9 @@
+versions=> 4.18.2
+
+1st part=> 4 // major update 
+
+2nd part=> 18 //  recommeneded big fixes or security change
+
+3rd part=> 2  // minor fixes (optional download)
+
+
